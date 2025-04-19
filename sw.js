@@ -8,7 +8,9 @@ const FILES = [ // Файлы, которые будут сохранены в �
   "/manifest.json",
   "/offline.html",
   "/images/photo.jpg",
-  "/images/qrcode.png",
+  "/images/qrcode_TG.png",
+  "/images/qrcode_GH.png",
+  "/images/qrcode_WhatsUp.png",
   "/icons/icon-192.png",
   "/icons/icon-512.png"
 ];
